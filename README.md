@@ -1,1 +1,1 @@
-# probabilityCalculator
+# Probability Calculator
